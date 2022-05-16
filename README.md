@@ -1,6 +1,3 @@
 ### Hi there 👋
 
-Hello, I'm Artyom Tugaryov, a back-end engineer from Russia.
-
-- 🔭 I’m currently working on the **OpenVINO Deep Learning Workbench**
-- 🌱 I’m currently learning *Python* and *Golang* as languages for back-end
+I'm Artyom Tugaryov, a back-end engineer from Russia. I was working working at Intel Corporation 6 years and currently I am a Back-End Engineer of **OpenVINO Deep Learning Workbench** 
