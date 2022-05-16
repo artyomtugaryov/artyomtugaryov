@@ -1,18 +1,11 @@
 ### Hi there 👋
 
-<!--
-**artyomtugaryov/artyomtugaryov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello, I'm Artyom Tugaryov, a back-end engineer from Russia.
 
 - 🔭 I’m currently working on the **OpenVINO Deep Learning Workbench**
 - 🌱 I’m currently learning *Python* and *Golang* as languages for back-end
-- 📫 How to reach me: telegram - https://t.me/artyomtugaryov
+- 📫 How to reach me: telegram - 
 
+<a href="https://t.me/artyomtugaryov">
+  <img align="left" alt="Artyom's Instagram" width="22px" src="./assets/tg_logo.webp" />
+</a>
